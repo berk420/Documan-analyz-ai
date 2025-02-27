@@ -11,12 +11,15 @@ import fitz  # PyMuPDF
 import logging
 import google.generativeai as genai
 from doc_project.crew import BelgeAnalizProjesi
+
+# Define the LANGTRACE_API_KEY variable
+LANGTRACE_API_KEY = os.getenv("LANGTRACE_API_KEY", "your_default_api_key_here")
 from Service.pdf_handler import pdf_oku  # Service katmanından import ettik
 # Must precede any llm module imports
 
 from langtrace_python_sdk import langtrace
 
-langtrace.init(api_key = '9d2ee0a5336c7bece253049b740ee9e098ca4b6bdd9c16474df05b07d28166d2')
+langtrace.init(api_key = LANGTRACE_API_KEY)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger("uvicorn")
