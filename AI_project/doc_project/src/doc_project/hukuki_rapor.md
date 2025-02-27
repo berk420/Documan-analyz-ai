@@ -1,32 +1,36 @@
 **Hukuki Risk Analiz Raporu - Mekan Kullanım Sözleşmesi**
 
+**Taraflar:** Esa Turizm Restaurantçılık ve Danışmanlık Hiz. Tic. Ltd. Şti. (ESA TURİZM) ve …………………………
+
+**Konu:** Moon Beach Resort Kullanım Sözleşmesi
+
+**Tarih:** [Bugünün Tarihi]
+
 **Giriş:**
 
-Bu rapor, Esa Turizm Restaurantçılık ve Danışmanlık Hiz. Tic. Ltd. Şti. ("ESA TURİZM") ile Müteahhit arasında imzalanacak olan Moon Beach Resort tesisi kullanım sözleşmesine ilişkin potansiyel hukuki riskleri ve önemli hususları değerlendirmektedir.
+Bu rapor, ESA TURİZM ile ………………………… arasında imzalanması planlanan Moon Beach Resort kullanım sözleşmesinin özet metnine dayanarak hazırlanmıştır.  Raporda, sözleşmede tespit edilen potansiyel hukuki riskler ve önemli hususlar değerlendirilmiştir.
 
 **Tespit Edilen Hukuki Riskler ve Olası Etkileri:**
 
-1. **Tek Taraflı Değişiklik Hakkı:** ESA TURİZM'in menü fiyatları, tesis kuralları ve hizmet kapsamını tek taraflı değiştirme hakkı, müteahhit için belirsizlik yaratmaktadır. Fiyatlardaki aşırı artışlar veya hizmet kalitesindeki düşüşler, müteahhitin mağduriyetine yol açabilir ve olası bir hukuki ihtilaf konusu olabilir. *Öneri: Değişikliklerin belirli sınırlar dahilinde yapılabileceği veya müteahhitin onayına tabi olacağı bir mekanizma eklenmelidir.*
+1. **Sözleşmenin Belirsizliği:** Sözleşme özeti, birçok konuda detay içermemektedir.  "Belirli kullanım alanları" ifadesi, hangi alanların kullanımına izin verildiğini açıkça belirtmemektedir. Bu belirsizlik, ileride anlaşmazlıklara yol açabilir. Örneğin, havuz, plaj, restoran gibi alanların kullanım hakları net olarak tanımlanmalıdır.  Aynı şekilde, "harcama limiti muafiyeti" neleri kapsadığı belirsizdir. Yiyecek, içecek, şezlong gibi hizmetlerin dahil olup olmadığı açıkça belirtilmelidir.
 
-2. **Kredi Sisteminin Belirsizliği:** Kredi kullanımına ilişkin kuralların net olarak belirtilmemesi, ileride anlaşmazlıklara yol açabilir. Kredi kullanımının hangi hizmetleri kapsadığı, kullanım süresi ve olası istisnaların açıkça tanımlanması gerekmektedir. *Öneri: Kredi kullanımına ilişkin detaylı bir ek veya açıklama sözleşmeye eklenmelidir.*
+2. **Tek Taraflı Değişiklik Hakkı:** ESA TURİZM'in menü fiyatlarını ve tesis kurallarını tek taraflı değiştirme hakkı, ………………………… aleyhine dengesizlik yaratabilir.  Fiyat değişikliklerine ilişkin objektif kriterler (örneğin, TÜFE) belirlenebilir ve kural değişikliklerinin makul ve önceden bildirimli olması sağlanabilir.
 
-3. **Sorumluluk Sınırlaması:** ESA TURİZM'in güvenlik önlemleri almasına rağmen oluşabilecek zararlardan sorumlu olmadığına dair hüküm, müteahhitin haklarını kısıtlayıcı niteliktedir.  ESA TURİZM'in kusurlu davranışlarından kaynaklanan zararlardan sorumlu tutulamaması adil olmayabilir. *Öneri: ESA TURİZM'in ağır kusur veya kasıtlı eylemlerinden kaynaklanan zararlardan sorumlu tutulacağına dair bir hüküm eklenmelidir.*
+3. **Kredi Limiti ve Ödeme Şartları:** 1.000 USD kredi limitinin kapsamı ve kullanım koşulları detaylı olarak açıklanmamıştır.  Kredi aşımında uygulanacak indirimlerin (%10 kredi kartı, %20 nakit) farklılığı, rekabeti engelleyici ve haksız fiyatlandırma olarak değerlendirilebilir.  Bu uygulama için geçerli bir gerekçe sunulmalı veya indirimler eşitlenmelidir.
 
-4. **Mücbir Sebep Hükümlerinin Belirsizliği:** Mücbir sebep hallerinin neler olduğu ve sözleşmenin nasıl etkileneceği net olarak belirtilmemiştir. Mücbir sebep durumunda tarafların hak ve yükümlülüklerinin açıkça tanımlanması önemlidir. *Öneri: Mücbir sebep hallerinin detaylı bir listesi ve bu hallerin sözleşmeye etkisi açıkça belirtilmelidir.*
+4. **Hane Sayısının Artması:** Orka Yalıkavak'taki taşınmaz satışlarına bağlı olarak hane sayısının artması ve ek ücretlendirme hükmü,  ………………………… için öngörülemeyen bir mali yük getirebilir.  Hane sayısının artışına ilişkin net bir mekanizma ve sınırlama getirilmelidir.
 
-5. **Delil Sözleşmesi:** ESA TURİZM’in ticari defter ve kayıtlarının tek taraflı delil olarak kabul edilmesi, müteahhit aleyhine bir durum yaratabilir.  *Öneri: Her iki tarafın da defter ve kayıtlarının delil olarak kabul edileceğine dair bir hüküm eklenmelidir.*
+5. **Sözleşmenin Feshi:** Sözleşmenin feshine ilişkin hükümler, özellikle "sözleşme hükümlerine uyulmaması" ifadesi, oldukça geneldir.  Hangi durumların sözleşme ihlali olarak kabul edileceği net olarak belirtilmeli ve fesih nedenleri somutlaştırılmalıdır.
 
-6. **Ödemelerin İadesizliği:** Ödemelerin iade edilemez olması, ESA TURİZM'in sözleşmeyi ihlal etmesi veya hizmetleri eksik sunması durumunda müteahhittin mağdur olmasına neden olabilir. *Öneri: ESA TURİZM'in kusurlu davranışlarından kaynaklanan durumlarda kısmi veya tam iade yapılabileceğine dair bir hüküm eklenmelidir.*
-
+6. **Mücbir Sebep:** Mücbir sebep halinde sözleşmenin feshedilmesine ilişkin hüküm, tarafların hak ve yükümlülüklerini yeterince korumamayabilir.  Mücbir sebep durumunda alternatif çözüm yolları (örneğin, sözleşmenin askıya alınması) değerlendirilmelidir.
 
 **Önemli Hukuki Hususlar:**
 
-* Sözleşmenin tüm hükümleri açık, anlaşılır ve yoruma yer bırakmayacak şekilde düzenlenmelidir.
-* Tarafların hak ve yükümlülükleri detaylı bir şekilde belirtilmelidir.
-* Sözleşme, her iki tarafın da imzası ile yazılı olarak yapılmalıdır.
-* Sözleşmenin Türkçe ve gerektiğinde İngilizce versiyonları hazırlanmalı ve her iki versiyonun da aynı hukuki geçerliliğe sahip olduğu belirtilmelidir.
-
+* Sözleşmenin tüm hükümleri açık, anlaşılır ve yoruma açık olmayacak şekilde düzenlenmelidir.
+* Tarafların hak ve yükümlülükleri dengeli bir şekilde dağıtılmalıdır.
+* Sözleşme, yürürlükteki mevzuata uygun olmalıdır.
+* Tüketici haklarına ilişkin düzenlemeler göz önünde bulundurulmalıdır.
 
 **Sonuç:**
 
-Bu raporda belirtilen riskler ve öneriler dikkate alınarak sözleşme metni yeniden gözden geçirilmeli ve gerekli düzenlemeler yapılmalıdır. Bu sayede olası hukuki uyuşmazlıkların önüne geçilebilir ve her iki tarafın da hakları korunabilir.
+Sözleşme taslağı, potansiyel hukuki riskler içermektedir.  Yukarıda belirtilen riskler ve hususlar dikkate alınarak sözleşme metni yeniden gözden geçirilmeli ve gerekli düzenlemeler yapılmalıdır.  Bu sayede, taraflar arasında ileride ortaya çıkabilecek anlaşmazlıkların önüne geçilebilir.  Detaylı bir hukuki inceleme yapılması tavsiye edilir.
