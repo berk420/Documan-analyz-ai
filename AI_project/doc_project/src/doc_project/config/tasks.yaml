@@ -1,17 +1,13 @@
-research_task:
+ozetleme_gorevi:
   description: >
-    Conduct a thorough research about {topic}
-    Make sure you find any interesting and relevant information given
-    the current year is {current_year}.
+    Verilen belgedeki ana noktaları çıkar ve kısa bir özet hazırla {input}
   expected_output: >
-    A list with 10 bullet points of the most relevant information about {topic}
-  agent: researcher
+    Belgenin ana konularını öne çıkaran, madde madde düzenlenmiş bir özet.
+  agent: ozetleyici
 
-reporting_task:
+hukuki_analiz_gorevi:
   description: >
-    Review the context you got and expand each topic into a full section for a report.
-    Make sure the report is detailed and contains any and all relevant information.
+    Belgedeki hukuki riskleri ve olası sorunları belirle, analiz yap 
   expected_output: >
-    A fully fledged report with the main topics, each with a full section of information.
-    Formatted as markdown without '```'
-  agent: reporting_analyst
+    Tespit edilen hukuki riskleri, olası etkilerini ve önemli hukuki hususları içeren detaylı bir rapor.
+  agent: hukuk_analisti
